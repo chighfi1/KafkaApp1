@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "xvBoZE3AaBLLjBe7rtAJ64euRSz6dXWmxnzQe7VwqontSI471EbiCjiyGSy7dOvhIgQMmef+j7fYl4k1T5Yj9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cort\\source\\repos\\KafkaApp1\\KafkaApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cort\\.nuget\\packages\\confluent.kafka\\1.4.2\\confluent.kafka.1.4.2.nupkg.sha512",
+    "C:\\Users\\Cort\\.nuget\\packages\\librdkafka.redist\\1.4.2\\librdkafka.redist.1.4.2.nupkg.sha512",
+    "C:\\Users\\Cort\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512",
+    "C:\\Users\\Cort\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Cort\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
